@@ -1,0 +1,8 @@
+2019-01-28 11:07:39 logger.py(73 - MainProcess - MainThread - <module>): INFO aaa
+2019-01-28 11:12:38 logger.py(74 - MainProcess - MainThread - <module>): INFO aaa
+2019-01-28 11:13:12 logger.py(74 - MainProcess - MainThread - <module>): WARNING aaa
+2019-01-28 11:13:42 logger.py(74 - MainProcess - MainThread - <module>): WARNING aaa
+2019-01-28 11:13:57 logger.py(74 - MainProcess - MainThread - <module>): WARNING aaa
+2019-01-28 11:14:24 logger.py(74 - MainProcess - MainThread - <module>): ERROR aaa
+2019-01-28 11:14:36 logger.py(74 - MainProcess - MainThread - <module>): ERROR aaa
+2019-01-28 11:14:49 logger.py(74 - MainProcess - MainThread - <module>): ERROR aaa
